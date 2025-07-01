@@ -4,6 +4,8 @@
 ## 📌 Project Overview
 
 This project analyzes real-world retail sales data to uncover key trends in product performance, customer behavior, and payment preferences. The goal was to provide data-driven insights into how sales are distributed across products, regions, and time periods using an interactive Power BI dashboard.
+<img width="837" alt="Screenshot 2025-06-26 100129" src="https://github.com/user-attachments/assets/9d819fb8-cbe1-44da-a4df-0c48b934b69f" />
+
 
 > 🚫 **Note**: Due to confidentiality, the raw dataset used in this project is not included. All data visualizations are based on anonymized or internally-observed patterns for demonstration purposes only.
 
